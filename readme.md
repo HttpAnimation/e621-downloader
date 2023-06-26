@@ -8,3 +8,4 @@ This is reading all URLs from a file called posts and downloading them with wget
 git clone https://github.com/HttpAnimation/e621-downloader.git
 cd e621-downloader
 python3 script.py
+![Screenshot from 2023-06-25 18-42-23](https://github.com/HttpAnimation/e621-downloader/assets/97435656/b0656f38-4994-479a-9455-be1764fcefd7)
