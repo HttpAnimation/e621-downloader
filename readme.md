@@ -5,6 +5,6 @@ This is reading all URLs from a file called posts and downloading them with wget
 
 
 # Install
-  git clone https://github.com/HttpAnimation/e621-downloader.git
-  cd e621-downloader
-  python3 script.py
+git clone https://github.com/HttpAnimation/e621-downloader.git
+cd e621-downloader
+python3 script.py
